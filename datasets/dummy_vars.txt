@@ -1,0 +1,44 @@
+MSSubClass: The building class
+MSZoning: Identifies the general zoning classification of the sale. 
+Street: Type of road access to property - binary
+Alley: Type of alley access to property 
+LotShape: General shape of property 
+LandContour: Flatness of the property 
+Utilities: Type of utilities available 
+LotConfig: Lot configuration 
+LandSlope: Slope of property 
+Neighborhood: Physical locations within Ames city limits 
+Condition1: Proximity to main road or railroad 
+Condition2: Proximity to main road or railroad (if a second is present) 
+BldgType: Type of dwelling 
+HouseStyle: Style of dwelling 
+OverallQual: Overall material and finish quality 
+OverallCond: Overall condition rating 
+RoofStyle: Type of roof
+RoofMatl: Roof material
+Exterior1st: Exterior covering on house
+Exterior2nd: Exterior covering on house (if more than one material)
+MasVnrType: Masonry veneer type
+ExterQual: Exterior material quality
+ExterCond: Present condition of the material on the exterior
+Foundation: Type of foundation
+BsmtQual: Height of the basement
+BsmtCond: General condition of the basement
+BsmtExposure: Walkout or garden level basement walls
+BsmtFinType1: Quality of basement finished area
+BsmtFinType2: Quality of second finished area (if present)
+Heating: Type of heating
+HeatingQC: Heating quality and condition
+CentralAir: Central air conditioning - binary
+Electrical: Electrical system
+Functional: Home functionality rating
+GarageType: Garage location
+GarageFinish: Interior finish of the garage
+GarageQual: Garage quality
+GarageCond: Garage condition
+PavedDrive: Paved driveway
+PoolQC: Pool quality
+Fence: Fence quality
+MiscFeature: Miscellaneous feature not covered in other categories
+SaleType: Type of sale
+FireplaceQu: Fireplace quality

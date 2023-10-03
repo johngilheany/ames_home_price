@@ -1,0 +1,5 @@
+YearBuilt: Original construction date - convert to yr
+YearRemod/Add: Remodel date (same as construction date if no remodeling or additions) - convert to yr
+GarageYrBlt: Year garage was built
+MoSold: Month Sold
+YrSold: Year Sold
