@@ -1,6 +1,4 @@
-# Project 2 - Ames Housing Data and Kaggle Challenge
-
-Welcome to Project 2! It's time to start modeling.
+# Predicting Home Price (Kaggle Challenge)
 
 **Problem Statement**
 - Our firm, General Assembly Advisors (GAA), has been hired by Iowa Landmark Realty (ILR), a real estate development firm looking to expand into Ames. ILR is particularly focused on deciding which neighborhood it should expand into, and has asked us for competitive analysis. The CEO is leaning towards building a new development in Bloomington Heights, and would like to see the final recommendation in relation to that neighborhood. 
