@@ -11,4 +11,4 @@
 **Executive Summary**
 - Based on the findings of our proprietary regression model, which we used to determine home price from a variety of predictive variables, one of which was neighborhood, we believe that the 3 neighborhoods you should consider for development are Green Hills, Northridge Heights and Stone Brook. 
 - Our model’s top suggestion is Green Hills, as it was 95% confident that, all else equal, a property in Green Hills will be worth \$74-155k more than a comparable property in Bloomington Heights. 
-- However, there were just 2 properties in our data set from Green Hills, so instead our recommend is Stone Brook as it is better represented in our sample, and we are 95% confident that, all else equal, a property in Stone Brook will be worth \\$24-55k\\ more than a comparable property in Bloomington Heights. 
+- However, there were just 2 properties in our data set from Green Hills, so instead our recommend is Stone Brook as it is better represented in our sample, and we are 95% confident that, all else equal, a property in Stone Brook will be worth \$24-55k more than a comparable property in Bloomington Heights. 
